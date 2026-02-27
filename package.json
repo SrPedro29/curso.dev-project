@@ -1,0 +1,24 @@
+{
+  "name": "curso.dev-project",
+  "version": "1.0.0",
+  "description": "Projeto criado durante as aulas do curso.dev",
+  "homepage": "https://github.com/SrPedro29/curso.dev-project#readme",
+  "bugs": {
+    "url": "https://github.com/SrPedro29/curso.dev-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrPedro29/curso.dev-project.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
